@@ -1,0 +1,1 @@
+// App component with CMS, services, blog, contact, and other features
