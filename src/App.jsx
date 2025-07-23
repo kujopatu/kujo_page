@@ -5,7 +5,7 @@ export default function App() {
   const calendlyLink = "https://calendly.com/sincereemmy";
 
   return (
-    <div className="min-h-screen bg-white text-gray-900 font-sans p-8">
+    <div className="min-h-screen bg-gray-100 text-gray-900 font-sans p-8">
       <h1 className="text-3xl font-bold mb-4">Welcome to Kujo's Website</h1>
       <p className="mb-8">Let's connect or schedule a meeting.</p>
 
